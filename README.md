@@ -1,7 +1,7 @@
 # ElvUI Updater __(Wrath Classic)__
 _A small script to automate a one-minute-task that bugged me so I wasted an hour writing it._
 
-The scripts automatically backs up your old ElvUI, downloads a new version of __WotLK Classic ElvUI__, and unzips it to the addons directory.
+The script automatically backs up your old ElvUI, downloads a new version of __WotLK Classic ElvUI__, and unzips it to the addons directory.
 
 
 ## How-to:
