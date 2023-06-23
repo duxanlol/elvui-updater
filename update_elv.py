@@ -15,7 +15,7 @@ ELVUI_WRATH_TOC = 'ElvUI_Wrath.toc'
 BACKUP_FOLDER = 'BackupElvUI'
 BACKUP_BACKUP_FOLDER = 'BackupElvUIBackup'
 
-ELVUI_API_URL = 'https://www.tukui.org/api.php?classic-wotlk-addons'
+ELVUI_API_URL = 'https://api.tukui.org/v1/addons'
 
 remote_json = None
 
